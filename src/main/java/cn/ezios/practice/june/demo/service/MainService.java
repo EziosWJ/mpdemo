@@ -1,4 +1,4 @@
-package cn.ezios.practice.june.demo.sevice;
+package cn.ezios.practice.june.demo.service;
 
 import org.springframework.stereotype.Service;
 
